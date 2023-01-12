@@ -1,0 +1,17 @@
+%%COLLAGE DETAILS
+
+@relation collage_info
+@attribute collage_name {"su","lpu","vit","vvit","iiit","bits"}
+@attribute collage_type {"deemed","private","aut"}
+@attribute package numeric
+@attribute land numeric
+@attribute students numeric
+
+@data
+
+"su","deemed",10000000,180,3000
+"lpu","deemed",300000,200,3000
+"vit","aut",4300000,400,59999
+"vvit","private",430000,445,5353
+"iiit","private",23000,344,2321
+"bits","deemed",300000,677,48743
